@@ -30,3 +30,4 @@ I enjoy working across the stack, with a particular interest in backend developm
 
 - [LinkedIn](https://www.linkedin.com/in/akshat-miglani/)
 - [GitHub](https://github.com/akshatmiglani)
+- [Youtube](https://www.youtube.com/@akshatmiglani2907)
